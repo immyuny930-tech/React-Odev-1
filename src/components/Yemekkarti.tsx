@@ -10,7 +10,7 @@ function Kart(props: KartProps) {
     return(
         <div>
             <h1>{props.yemekAdi}</h1>
-            <p>Pişirme Süresi: {props.pisirmeSuresi} Saat</p>
+            <p>Pişirme/Hazırlama Süresi: {props.pisirmeSuresi} Saat</p>
             <p>Pişirme Zorluğu: {props.zorluk}</p>
             <p>Vejetaryan: {props.vejetaryan ? "Evet" : "Hayır"}</p>
             <h3>Malzemeler:</h3>

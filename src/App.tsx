@@ -18,7 +18,20 @@ function App() {
         "Kıyma",
         "Soğan",
         "Yoğurt"
-        ]} />
+        ]}/>
+        <Kart 
+        yemekAdi="Mercimek Çorbası"
+        pisirmeSuresi={1}
+        zorluk="Kolay"
+        vejetaryan={true}
+        malzemeler={[
+          "Mercimek",
+          "Soğan",
+          "Havuç",
+          "Su",
+          "Tuz",
+          "Biber"
+        ]}/>
     </div>
   );
 }
