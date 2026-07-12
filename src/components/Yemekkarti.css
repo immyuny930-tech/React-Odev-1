@@ -1,0 +1,21 @@
+.kart {
+    color: black;
+    background-color: whitesmoke;
+    border: 3px solid  darkred;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+}
+
+.kart h1{
+    font-size: 40px;
+    color: darkred;
+}
+
+.kart p{
+    margin: 5px;
+}
+
+.kart ul {
+    padding-left: 20px;
+}

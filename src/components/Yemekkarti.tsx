@@ -1,3 +1,5 @@
+import "./Yemekkarti.css"
+
 interface KartProps {
     yemekAdi: string;
     pisirmeSuresi: number;
@@ -8,7 +10,7 @@ interface KartProps {
 
 function Kart(props: KartProps) {
     return(
-        <div>
+        <div className="kart">
             <h1>{props.yemekAdi}</h1>
             <p>Pişirme/Hazırlama Süresi: {props.pisirmeSuresi} Saat</p>
             <p>Pişirme Zorluğu: {props.zorluk}</p>
