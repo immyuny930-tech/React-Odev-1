@@ -1,3 +1,8 @@
+## 📸 Proje Görünümü
+
+![Proje Görünümü](./screenshot-2026-08-22-192742.png)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
