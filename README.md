@@ -1,6 +1,6 @@
 ## 📸 Proje Görünümü
 
-![Proje Görünümü](./screenshot-2026-08-22-192742.png)
+![Proje Görünümü](./Screenshot%202026-08-22%20192742.png)
 
 
 # React + TypeScript + Vite
